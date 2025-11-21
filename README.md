@@ -46,11 +46,12 @@ LinkedIn: https://www.linkedin.com/in/additti-kharabe-88a139313/
 
 ## 💼 Experience & Achievements
 - **Crowdfunding Intern — Muskurahat Foundation** (Jun–Jul 2025): raised funds for a social project.  
-- **Hackathons:** Idea shortlisted in a Foursquare Hackathon; Participated in Smart India Hackathon (Traffic Simulation using SUMO + OpenCV + RL).  
+- **Hackathons:** Idea shortlisted in a Foursquare Hackathon; Participated in Smart India Hackathon (Traffic Simulation using SUMO + OpenCV + RL).
+- **Game Developement:** Completed a certified Game Developement course
 - **Sports & Leadership:** Gold medal in Kabaddi, volunteer at Pune Startup Fest.
 
 ## 📣 Want to collaborate?
-I’m open to internships, research collaborations and project roles. 
+I’m open to internships, research collaborations and project roles.
 **Email:** additti955@gmail.com • **Phone:** +91 9730371709
 
 <h1> PROJECT 1 HACKEREARTH FOURSQUARE HACKATHON</h1>
