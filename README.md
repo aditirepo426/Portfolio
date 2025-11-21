@@ -22,7 +22,9 @@ Built during the Foursquare Places API Hackathon, the concept was selected in th
 - **Back-end:** Flask (Python)  
 - **Front-end:** HTML · CSS · JavaScript · Bootstrap  
 - **API:** Foursquare Places API for location-based restaurant data  
-- **Features:** Mood input, Geolocation, Restaurant results with ratings & price levels  
+- **Features:** Mood input, Geolocation, Restaurant results with ratings & price levels
+
+Find this project here : https://github.com/aditirepo426/myfoodmoodfinal
 
 <h1> PROJECT 2 SMART INDIA HACKATHON</h1>
 <h1 align="center">🚦 Smart Traffic Management using Multi-Agent Reinforcement Learning & Computer Vision</h1>
