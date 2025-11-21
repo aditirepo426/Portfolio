@@ -1,3 +1,60 @@
+# 👋 Hi, I'm Additti Kharabe — Data Science & Manufacturing Student / Developer
+
+<p align="center">
+  <b>Building intelligent systems that combine simulations, ML, and real-world data</b><br>
+  <i>Projects: Smart Traffic Management (MARL + CV), Food Mood — Mood-based restaurant recommender</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-%23000.svg?style=flat-square&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SUMO-CityFlow-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OpenCV-YOLO-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Foursquare-API-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Status-Active%20Learner-yellow?style=flat-square"/>
+</p>
+
+## 👩‍🎓 About Me
+An enthusiastic learner exploring intersections of **manufacturing**, **data science**, and **AI**. I build prototypes that combine simulation, computer vision, and machine learning to solve real problems (traffic optimization, human-centered recommendations). See my resume for a full background: [Download Resume](/mnt/data/ADDITTI%20KHARABE%20RESUME.pdf). :contentReference[oaicite:2]{index=2}
+
+Portfolio: https://sites.google.com/ds.study.iitm.ac.in/addittikharabe/home  
+LinkedIn: https://www.linkedin.com/in/additti-kharabe-88a139313/
+
+## 🔭 Current Focus / Interests
+- Multi-Agent Reinforcement Learning (MARL) for control systems
+- Machine Learning
+- Algo trading
+- Computer Vision (YOLO, OpenCV) for real-time perception  
+- Simulation-driven development (SUMO, CityFlow, LC-SIM)  
+- Backend web development (Flask) and rapid prototyping using public APIs
+
+## 🛠 Tech Stack (skills I use most)
+**Languages:** Python, JavaScript, HTML/CSS  
+**ML / CV:** PyTorch/TensorFlow (basics), YOLO, OpenCV, basic ML pipelines  
+**Simulation:** SUMO, CityFlow, LC-SIM, TraCI  
+**Web / APIs:** Flask, Foursquare Places API, Geolocation API  
+**Tools:** Git, Docker (basic), VS Code, Jupyter  
+**Data & Viz:** Pandas, Numpy, Matplotlib, Power BI (foundation)
+
+### 3) Other Prototypes & Coursework
+- Small manufacturing/automation utilities built during coursework (lathe operations, welding process automation concepts) and several hackathon prototypes integrating data science with domain knowledge.
+
+## 💼 Experience & Achievements
+- **Crowdfunding Intern — Muskurahat Foundation** (Jun–Jul 2025): raised funds for a social project.  
+- **Hackathons:** Idea shortlisted in a Foursquare Hackathon; Participated in Smart India Hackathon (Traffic Simulation using SUMO + OpenCV + RL).  
+- **Sports & Leadership:** Gold medal in Kabaddi, volunteer at Pune Startup Fest.
+
+**Additti Kharabe** — Manufacturing Science & Engineering student (COEP, Pune) + Majors in  Data Science + Diploma at IIT Madras BS program.  
+- Strong foundation in Python, simulation, and basic ML/CV.  
+- Built ML + CV prototypes that integrate real-world sensor data with simulation-based training.  
+- Comfortable with rapid prototyping under hackathon constraints; experience deploying Flask-based frontends and using third-party APIs.
+
+(Full resume available here: [Resume PDF](/mnt/data/ADDITTI%20KHARABE%20RESUME.pdf)). :contentReference[oaicite:4]{index=4}
+
+## 📣 Want to collaborate?
+I’m open to internships, research collaborations and project roles where I can apply simulation, ML, or CV to tangible problems.  
+**Email:** additti955@gmail.com • **Phone:** +91 9730371709
+
 <h1> PROJECT 1 HACKEREARTH FOURSQUARE HACKATHON</h1>
 <h1 align="center">🍔 Food Mood App</h1>
 <p align="center">
@@ -49,3 +106,5 @@ CCTV feeds using **YOLO + OpenCV**, enabling live, adaptive traffic control.
 
 A monitoring **dashboard** displays congestion heatmaps, intersection states, and agent decisions, allowing  
 traffic authorities to supervise and override signals in real time.
+
+*Made with ❤️ — actively learning, building, and shipping prototypes.*
