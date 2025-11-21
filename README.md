@@ -1,9 +1,9 @@
-# **Additti Kharabe** — Manufacturing Science & Engineering student (COEP, Pune) + Majors in  Data Science + Diploma at IIT Madras BS program.  
+# **Additti Kharabe** — Manufacturing Engineering student (COEP, Pune) + Majors in  Data Science + Diploma at IIT Madras BS program.  
 <p align="center">
-  <b>Building intelligent systems that combine simulations, ML, and real-world data
-- Strong foundation in Python, simulation, and basic ML/CV.  
-- Built ML + CV prototypes that integrate real-world sensor data with simulation-based training.  
-- Comfortable with rapid prototyping under hackathon constraints; experience deploying Flask-based frontends and using third-party APIs.</b><br>
+  <b>Building intelligent systems that combine simulations, ML, and real-world data</b><br>
+- Strong foundation in Python, simulation, and basic ML/CV.<br>
+- Built ML + CV prototypes that integrate real-world sensor data with simulation-based training.<br>
+- Comfortable with rapid prototyping under hackathon constraints; experience deploying Flask-based frontends and using third-party APIs.<br>
   <i>Projects: Smart Traffic Management (MARL + CV), Food Mood — Mood-based restaurant recommender</i>
 </p>
 
@@ -25,10 +25,13 @@ LinkedIn: https://www.linkedin.com/in/additti-kharabe-88a139313/
 ## 🔭 Current Focus / Interests
 - Multi-Agent Reinforcement Learning (MARL) for control systems
 - Machine Learning
+- Data Structures and Algorithms using python
+- DBMS
 - Algo trading
 - Computer Vision (YOLO, OpenCV) for real-time perception  
 - Simulation-driven development (SUMO, CityFlow, LC-SIM)  
 - Backend web development (Flask) and rapid prototyping using public APIs
+- Vibe coding
 
 ## 🛠 Tech Stack (skills I use most)
 **Languages:** Python, JavaScript, HTML/CSS  
@@ -47,7 +50,7 @@ LinkedIn: https://www.linkedin.com/in/additti-kharabe-88a139313/
 - **Sports & Leadership:** Gold medal in Kabaddi, volunteer at Pune Startup Fest.
 
 ## 📣 Want to collaborate?
-I’m open to internships, research collaborations and project roles where I can apply simulation, ML, or CV to tangible problems.  
+I’m open to internships, research collaborations and project roles. 
 **Email:** additti955@gmail.com • **Phone:** +91 9730371709
 
 <h1> PROJECT 1 HACKEREARTH FOURSQUARE HACKATHON</h1>
