@@ -1,7 +1,9 @@
-# 👋 Hi, I'm Additti Kharabe — Data Science & Manufacturing Student / Developer
-
+# **Additti Kharabe** — Manufacturing Science & Engineering student (COEP, Pune) + Majors in  Data Science + Diploma at IIT Madras BS program.  
 <p align="center">
-  <b>Building intelligent systems that combine simulations, ML, and real-world data</b><br>
+  <b>Building intelligent systems that combine simulations, ML, and real-world data
+- Strong foundation in Python, simulation, and basic ML/CV.  
+- Built ML + CV prototypes that integrate real-world sensor data with simulation-based training.  
+- Comfortable with rapid prototyping under hackathon constraints; experience deploying Flask-based frontends and using third-party APIs.</b><br>
   <i>Projects: Smart Traffic Management (MARL + CV), Food Mood — Mood-based restaurant recommender</i>
 </p>
 
@@ -15,7 +17,7 @@
 </p>
 
 ## 👩‍🎓 About Me
-An enthusiastic learner exploring intersections of **manufacturing**, **data science**, and **AI**. I build prototypes that combine simulation, computer vision, and machine learning to solve real problems (traffic optimization, human-centered recommendations). See my resume for a full background: [Download Resume](/mnt/data/ADDITTI%20KHARABE%20RESUME.pdf). :contentReference[oaicite:2]{index=2}
+An enthusiastic learner exploring intersections of **manufacturing**, **data science**, and **AI**. I build prototypes that combine simulation, computer vision, and machine learning to solve real problems (traffic optimization, human-centered recommendations). See my resume for a full background: https://drive.google.com/file/d/1jbfWpbkvwLAKsy4JJLl97wb58QxTZnoo/view?usp=sharing
 
 Portfolio: https://sites.google.com/ds.study.iitm.ac.in/addittikharabe/home  
 LinkedIn: https://www.linkedin.com/in/additti-kharabe-88a139313/
@@ -43,13 +45,6 @@ LinkedIn: https://www.linkedin.com/in/additti-kharabe-88a139313/
 - **Crowdfunding Intern — Muskurahat Foundation** (Jun–Jul 2025): raised funds for a social project.  
 - **Hackathons:** Idea shortlisted in a Foursquare Hackathon; Participated in Smart India Hackathon (Traffic Simulation using SUMO + OpenCV + RL).  
 - **Sports & Leadership:** Gold medal in Kabaddi, volunteer at Pune Startup Fest.
-
-**Additti Kharabe** — Manufacturing Science & Engineering student (COEP, Pune) + Majors in  Data Science + Diploma at IIT Madras BS program.  
-- Strong foundation in Python, simulation, and basic ML/CV.  
-- Built ML + CV prototypes that integrate real-world sensor data with simulation-based training.  
-- Comfortable with rapid prototyping under hackathon constraints; experience deploying Flask-based frontends and using third-party APIs.
-
-(Full resume available here: [Resume PDF](/mnt/data/ADDITTI%20KHARABE%20RESUME.pdf)). :contentReference[oaicite:4]{index=4}
 
 ## 📣 Want to collaborate?
 I’m open to internships, research collaborations and project roles where I can apply simulation, ML, or CV to tangible problems.  
