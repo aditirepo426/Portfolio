@@ -1,3 +1,30 @@
+<h1> PROJECT 1 HACKEREARTH FOURSQUARE HACKATHON</h1>
+<h1 align="center">🍔 Food Mood App</h1>
+<p align="center">
+  <b>Mood-based Restaurant Recommendations | Foursquare Places API Hackathon Prototype</b><br>
+  <i>Hackathon finalist: idea selected in first stage</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Flask-Web%20App-blue">
+  <img src="https://img.shields.io/badge/Foursquare-API-orange">
+  <img src="https://img.shields.io/badge/Mood-Based-Recommendations-brightgreen">
+  <img src="https://img.shields.io/badge/Status-Prototype-yellow">
+</p>
+
+## 🔍 Overview
+
+Food Mood App is a web application built with Flask that recommends restaurants based on a user’s **current mood** and **location**.  
+Built during the Foursquare Places API Hackathon, the concept was selected in the *first stage* as a promising prototype.
+
+## 🛠️ Tech Stack
+
+- **Back-end:** Flask (Python)  
+- **Front-end:** HTML · CSS · JavaScript · Bootstrap  
+- **API:** Foursquare Places API for location-based restaurant data  
+- **Features:** Mood input, Geolocation, Restaurant results with ratings & price levels  
+
+<h1> PROJECT 2 SMART INDIA HACKATHON</h1>
 <h1 align="center">🚦 Smart Traffic Management using Multi-Agent Reinforcement Learning & Computer Vision</h1>
 <p align="center">
   <b>Adaptive AI-driven signal control | MARL + YOLO + CityFlow + SUMO</b><br>
