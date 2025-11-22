@@ -96,8 +96,8 @@ Find this project here : https://github.com/aditirepo426/myfoodmoodfinal
   <img src="https://img.shields.io/badge/Status-Prototype-yellow">
   <img src="https://img.shields.io/badge/Team-Production%20Pioneers-purple">
 </p>
-This project implements an AI-powered **Smart Traffic Management System** designed to reduce urban congestion using  
-**Multi-Agent Reinforcement Learning (MARL)**, **YOLO-based Computer Vision**, and **large-scale traffic simulation**.
+This project implements an <b>AI-powered Smart Traffic Management System</b> designed to reduce urban congestion using  
+<b>Multi-Agent Reinforcement Learning (MARL)</b>, <b>YOLO-based Computer Vision</b>, and large-scale traffic simulation.
 
 Each traffic signal acts as an intelligent RL agent trained using the **AttendLight** algorithm in a hybrid  
 **CityFlow + SUMO** simulation environment. Real-time vehicle counts and congestion levels are extracted from  
